@@ -1,0 +1,9 @@
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\GF.Mvc01.Facts.dll
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\GF.Mvc01.Facts.pdb
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\GF.Mvc01.dll
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\xunit.dll
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\GF.Mvc01.pdb
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\bin\Debug\xunit.xml
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\obj\Debug\ResolveAssemblyReference.cache
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\obj\Debug\GF.Mvc01.Facts.dll
+C:\MvcWorkShop2\GF.Mvc01\GF.Mvc01.Facts\obj\Debug\GF.Mvc01.Facts.pdb
